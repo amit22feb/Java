@@ -28,6 +28,6 @@ public class Retailer {
 	}
 	
 	public String myTaxRate(){
-		return "100%";
+		return "90%";
 	}
 }
