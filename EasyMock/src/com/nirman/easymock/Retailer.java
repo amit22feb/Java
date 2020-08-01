@@ -31,6 +31,7 @@ public class Retailer {
 		return "90%";
 	}
 	
-	public String people taxRate(){
+	public String taxRate(){
 		return "82%";
+	}
 }
